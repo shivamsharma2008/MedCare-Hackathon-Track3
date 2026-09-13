@@ -1,0 +1,6 @@
+{
+  "name": "MedCare",
+  "description": "Responsive rural clinic and healthcare platform with prescription digitization, doctor finder, appointments, and patient portal.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
